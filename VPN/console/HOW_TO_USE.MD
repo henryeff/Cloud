@@ -29,6 +29,7 @@ qrencode -t ansiutf8 < phone.conf
 ### 4. **Add a new connection on your WireGuard App**
 
 Open the WireGuard app on your phone and tap the ➕ button to add a new connection.
+
 ![alt text](./images/how-0.png)
 
 ### 5. **Scan the QR Code**
@@ -38,6 +39,7 @@ Use your mobile device’s camera or the WireGuard app to scan the QR code gener
 ### 6. **Connect to your VPN**
 
 Once the configuration is added, connect to your newly set up VPN. To verify the connection, visit [What Is My IP Address?](https://whatismyipaddress.com/) to check your phone's public IP address matched with your EC2's public ip address
+
 ![VPN is connected](./images/how-2.png)  
 ![phoneipaddress](./images/how-3.png)
 ![ec2ipaddress](./images/how-4.png)
