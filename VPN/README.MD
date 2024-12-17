@@ -40,8 +40,8 @@ WIP 👷‍♂️🛠️👷‍♂️
 **AWS CONSOLE**  
 Follow the step-by-step guide to deploy this application via AWS Console.
 
-1. [EC2 Instance & Wireguard configuration](EC2.MD)
-2. [How to start and use the VPN](HOW_TO_USE.MD)
+1. [EC2 Instance & Wireguard configuration](./console/EC2.MD)
+2. [How to start and use the VPN](./console/HOW_TO_USE.MD)
 
 ---
 
