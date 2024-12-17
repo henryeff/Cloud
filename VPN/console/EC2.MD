@@ -103,3 +103,9 @@ To transfer the config to your phone without scp, we need to install QR code gen
 ```bash
 sudo apt install qrencode -y
 ```
+
+### 8. **Update Security Group**
+
+Update your EC2 instance inbound security group to allow **udp port 51820 from anywhere**
+![alt text](./images/ec2-2png)
+![alt text](./images/ec2-1.png)

@@ -34,8 +34,7 @@ AWS offers **free-tier EC2 instances**, which makes it a **cost-effective** solu
 
 ## 🛠️ How to Deploy?
 
-**Terraform Deployment**:
-WIP 👷‍♂️🛠️👷‍♂️
+Terraform Deployment: **In Progress** 👷‍♂️🛠️👷‍♂️
 
 **AWS CONSOLE**  
 Follow the step-by-step guide to deploy this application via AWS Console.
