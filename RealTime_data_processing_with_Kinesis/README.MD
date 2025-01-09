@@ -37,7 +37,8 @@ Before you begin, ensure you have the following:
 Follow the step-by-step guide to deploy this application.  
 The detailed instructions are available in the link below and the code is stored under [code](./code) subdirectory
 
-1. [Create dynamodb table](./console/dynamoDB.md)
+1. [Create dynamodb table](./console/dynamodb.md)
 1. [Create Kinesis Data Stream](./console/kinesis.md)
 1. [Create lambda function](./console/lambda.md)
 1. [Create IAM policy](./console/IAM.md)
+1. [How To test](./console/HOW_TO_USE.MD)
